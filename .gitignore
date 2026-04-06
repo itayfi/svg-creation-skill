@@ -1,0 +1,14 @@
+node_modules/
+.env
+*.jpg
+*.png
+*.webp
+*.svg
+!gemini_svg.svg
+pelican*
+generated-*
+old_prompt.md
+input.json
+trace-raster-image-tool.ts
+gemini_svg.png
+skills-lock.json

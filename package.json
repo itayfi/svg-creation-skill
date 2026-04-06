@@ -1,0 +1,16 @@
+{
+  "name": "svg-creation-skill",
+  "version": "1.0.0",
+  "description": "AI agent skill for generating editable SVG illustrations from text prompts",
+  "keywords": ["skill", "svg", "vector", "illustration", "ai", "gemini"],
+  "license": "MIT",
+  "dependencies": {
+    "@fal-ai/client": "^1.9.5",
+    "@google/genai": "^1.48.0",
+    "@image-tracer-ts/nodejs": "^1.0.4",
+    "@imgly/background-removal-node": "^1.4.5",
+    "@resvg/resvg-js": "^2.6.2",
+    "dotenv": "^17.4.1",
+    "mime": "^4.1.0"
+  }
+}
